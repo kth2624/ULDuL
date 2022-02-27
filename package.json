@@ -1,0 +1,26 @@
+{
+  "name": "uldul",
+  "version": "1.0.0",
+  "description": "울둘만의 채팅",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kth2624/ULDuL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kth2624/ULDuL/issues"
+  },
+  "homepage": "https://github.com/kth2624/ULDuL#readme",
+  "devDependencies": {
+    "express": "^4.17.3"
+  },
+  "dependencies": {
+    "socket.io": "^4.4.1",
+    "ws": "^8.5.0"
+  }
+}
